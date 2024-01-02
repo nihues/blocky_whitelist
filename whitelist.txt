@@ -1,1 +1,2 @@
 #Personal Whitelist for blocky
+bradesco.us-4.evergage.com
